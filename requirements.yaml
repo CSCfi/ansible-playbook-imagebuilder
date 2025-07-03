@@ -1,0 +1,6 @@
+---
+- src: https://github.com/CSCfi/ansible-role-imagebuilder.git
+  scm: git
+  path: roles
+  
+...

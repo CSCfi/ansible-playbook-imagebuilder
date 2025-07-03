@@ -1,0 +1,4 @@
+vault.yml
+vault.yaml
+inventories/hosts.yaml
+inventories/host_vars/*
